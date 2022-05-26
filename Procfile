@@ -1,0 +1,1 @@
+web: gunicorn gladystribune.wsgi --log-file -
